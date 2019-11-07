@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Restaurants review website built with NestJS and React",
   "repository": "https://github.com/mpontus/restaurants-review",
-  "author": "Michael Pontus",
+  "author": "Ivan Angelovski",
   "license": "MIT",
   "scripts": {
     "postinstall": "lerna bootstrap",
