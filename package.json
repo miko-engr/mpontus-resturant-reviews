@@ -2,7 +2,7 @@
   "name": "restaurants-review",
   "version": "1.0.0",
   "description": "Restaurants review website built with NestJS and React",
-  "repository": "https://github.com/mpontus/restaurants-review",
+  "repository": "https://github.com/IvanStack/mpontus-resturant-reviews",
   "author": "Ivan Angelovski",
   "license": "MIT",
   "scripts": {
